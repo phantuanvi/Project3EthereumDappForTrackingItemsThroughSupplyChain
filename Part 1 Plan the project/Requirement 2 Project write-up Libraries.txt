@@ -1,0 +1,3 @@
+truffle-hdwallet-provider: Use it to sign transactions for deploying the smart contracts.
+web3: interact with an Ethereum node
+lite-server: create a server a web app
